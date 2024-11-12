@@ -1,21 +1,31 @@
 # Youtube Clone
 
-1. `channels`
+## 1. `channels`
 
-   _description_: folder that contains channel profiles
+### _description_:
 
-2. `icons`
+- folder that contains channel profiles
 
-   _description_: folder that contains all the icon needed for the website
+## 2. `icons`
 
-3. `styles`
+### _description_:
 
-   _description_: folder that contains all the CSS file used on the website
+- folder that contains all the icon needed for the website
 
-4. `thumbnails`
+## 3. `styles`
 
-   _description_: folder that contains all the thumbnail for the videos on the website
+### _description_:
 
-5. `youtube.html`
+- folder that contains all the CSS file used on the website
 
-   _description_: the main HTML file of the website itself
+## 4. `thumbnails`
+
+### _description_:
+
+- folder that contains all the thumbnail for the videos on the website
+
+## 5. `youtube.html`
+
+### _description_:
+
+- the main HTML file of the website itself
